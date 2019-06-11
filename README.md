@@ -2,8 +2,9 @@
 ## Click 'Agree' to Access: A workshop on data privacy and browser extensions * By [Qianxun Chen](chenqianxun.com)
 
 ## Introduction & Essential Question
-- What are we actually agreeing to when we click "I Agree" to Terms of services and privacy policies? In this workshop we will be using browsers, and browser extensions to take a closer look at the digital services we use everyday. We are going to learn more about digital privacies by looking into some terms of services in small groups. What data are constantly collected from us and how are the companies going to use them to make profit? How can we protect our data by changing browser/account settings or using privacy tools?
-- In the second half of the workshop we will see examples of browser extensions created by artists and programmers to challenge, disrupt and fight back to online data surveillance. Then we are going to learn how to make simple browser extensions. How might we use browser extensions as a tool of hacktivism and to express ourselves creatively?
+- What are we actually agreeing to when we click "I Agree" to Terms of services and privacy policies? In this workshop we will be using browsers and browser extensions to take a closer look at the digital services we use everyday. We are going to learn more about digital privacies by studying some terms of services in small groups. What data are constantly collected from us and how are the companies going to use them to make profit? How can we protect our data by changing browser/account settings or using privacy tools?
+
+- In the second half of the workshop we will see examples of browser extensions created by artists and programmers to challenge, disrupt and fight back to online data surveillance, followed by a basic introduction to making browser extensions. How might we use browser extensions as tools for hacktivism and to express ourselves creatively?
 
 ### Prerequisite & Pre-Assessment
 Some basic understanding of HTML/CSS/Javascript is preferred but not a must.

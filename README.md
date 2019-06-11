@@ -37,7 +37,7 @@ After this workshop, students will walk away with:
 
 
 ## Exercise Descriptions
-### I.Understanding TERMS OF SERVICE
+### I.Understanding Terms of Service
 - Step 1: Make a list of ten digital tools you've used most in the last two months.
   - What app/web service do you use to communicate with your family or your friends? To search information or ask questions? To have fun and spend your free time?
 - Step 2: Before we have access to these services, we always need to check "I Agree" to terms of service that no one reads. Now let’s learn more about these terms together with the help from a browser extension.
@@ -54,7 +54,7 @@ After this workshop, students will walk away with:
    - [Privacy Tools](https://www.privacytools.io/)
    - [How to enable DNT in your browser](https://www.digitalcitizen.life/enable-do-not-track-dnt-chrome-firefox-edge-opera-internet-explorer)
 
-### II. Web extensions
+### II. Browser extensions
 Examples of web extensions that fight against ads and online tracking
 - [CatBlock](https://getcatblock.com/)
 - [ Adnauseam](https://adnauseam.io/)

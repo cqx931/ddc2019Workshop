@@ -1,6 +1,5 @@
 
 ## : More in your browser: A workshop on data privacy and browser extensions * By [Qianxun Chen](chenqianxun.com)
-* Better put after any basic HTML/CSS/Javascript workshop
 
 ## Introduction & Essential Question
 - In this workshop we will be using browsers, and browser extensions to take a closer look at the digital services we use everyday. What are we actually agreeing to when we click "I Agree" to Terms of services and privacy policies? We are going to learn more about digital privacies by looking into some terms of services in small groups. What data are constantly collected from us and how are the companies going to use them to make profit? How can we protect our data by changing browser/account settings or using privacy tools?

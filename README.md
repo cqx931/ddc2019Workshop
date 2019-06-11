@@ -45,9 +45,8 @@ After this workshop, students will walk away with:
   - Work in a group of 3-4 and choose a website/service you want to work on together
     - What data does this service collect from you?
     - How is the company going to use these data?
-    - Who owns the collected data?
     - Does what you read from tosDR matches your current understanding of the web service? Is there anything that surprises you?
-    - If you found any terms that you don’t understand, refer to the vocabulary list, find more about it online or ask the instructors for help
+    - If you found any terms that you don’t understand, refer to the vocabulary list, find more about it online or ask the instructor for help.
   - We are going to fill in a google doc together so everyone can refer to it later after class.
 - Step 3: Share what you learnt about the service with the class.
 - Step 4: Strategies: How can we better protect ourselves?
@@ -71,6 +70,7 @@ By Modifying web content:
 - [Stop Normalizing Alt Right](http://www.stopnormalizing.com/)
 - [Pro-life to Anti-choice](https://www.bustle.com/articles/143120-google-chrome-extension-changes-pro-life-to-anti-choice-because-the-language-we-use-matters)
 - [Gender Swapper](https://chrome.google.com/webstore/detail/genderswapper/nejfjabadecdgcjcinaakajnpgbabllp)
+
 And by clicking behind the scene:
 - [I like what I see](https://github.com/sklise/i-like-what-i-see)
 
@@ -85,7 +85,7 @@ And by clicking behind the scene:
   * I.Share what you learnt today with your friends and parents!
   * More: Find a web service that you use and [add a comment](https://edit.tosdr.org/services). Contribute to the community and help others to understand Terms of Services as well!
   * II.Finish up your browser extension by designing your own logo
-  * If you like what you made and want other people to use your browser extension, publish your browser extension in chrome extension store by following instructions from [this page](https://developer.chrome.com/webstore/publish)!
+  * More: If you like what you made and want other people to use your browser extension, publish your browser extension in chrome extension store by following instructions from [this page](https://developer.chrome.com/webstore/publish)!
 
 ### References
 * [Ten weird tricks for resisting surveillance capitalism in and through the classroom . . . next term!](https://www.hastac.org/blogs/erin-glass/2018/12/27/ten-weird-tricks-resisting-surveillance-capitalism-and-through-classroom)

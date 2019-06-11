@@ -2,7 +2,7 @@
 ## Click 'Agree' to Access: A workshop on data privacy and browser extensions * By [Qianxun Chen](chenqianxun.com)
 
 ## Introduction & Essential Question
-- What are we actually agreeing to when we click "I Agree" to Terms of services and privacy policies? In this workshop we will be using browsers and browser extensions to take a closer look at the digital services we use everyday. We are going to learn more about digital privacies by studying some terms of services in small groups. What data are constantly collected from us and how are the companies going to use them to make profit? How can we protect our data by changing browser/account settings or using privacy tools?
+- What are we actually agreeing to when we click "I Agree" to Terms of services and privacy policies? In this workshop we will be using browsers and browser extensions to take a closer look at the digital services we use everyday. We are going to learn more about digital privacies by studying some terms of services in small groups. What kinds of data are constantly collected from us and how are the companies going to use them to make profit? How can we protect our data by changing browser/account settings or using privacy tools?
 
 - In the second half of the workshop we will see examples of browser extensions created by artists and programmers to challenge, disrupt and fight back to online data surveillance, followed by a basic introduction to making browser extensions. How might we use browser extensions as tools for hacktivism and to express ourselves creatively?
 
@@ -12,10 +12,10 @@ For the workshop we are going to use the chrome browser and [Atom code editor](h
 
 ### Outcomes & Goals
 After this workshop, students will walk away with:
-- What data is collected by websites/services and how are they collected
-- How to change user settings in web browsers and their user accounts to better protect themselves
-- Alternative tools they can choose to use to better protect their own data.
-- How to express themselves creatively using browser extensions
+- What kinds of data are collected by websites/services and how are they collected
+- How to change user settings in web browsers and user accounts to protect their data
+- Alternative tools/services for better data privacy
+- How to express oneself creatively using browser extensions
 
 ### Pacing / Duration: 2 Hours
 
@@ -25,7 +25,7 @@ After this workshop, students will walk away with:
   - :15 Wrap-up discussion & sharing
 
 - II.Web Extensions
- - :10 Look at examples of web extensions of activism
+ - :10 Look at examples of web extensions for activism
  - :20 A brief introduction of making web extensions in chrome
  - :30 Students make their own mini web extension by modifying [basic browser examples by tegacodes](https://github.com/tegacodes/speculative-bureaucracy/tree/master/Extensions)
  - :10 Sharing and presenting
@@ -33,18 +33,19 @@ After this workshop, students will walk away with:
 ## Before Class
 * Make sure you have chrome browser installed and Atom code editor.
 * Read [7 Sketchy Terms and Conditions You Didn't Read (but Probably Should)](https://www.thrillist.com/tech/nation/terms-and-conditions-youve-mindlessly-agreed-to-fine-print-in-end-user-license-agreements)
-* (Optional) Check out Daniel Shiffman's tutorial for web extensions if you prefer to start learning about how to make web extensions by yourself.
+* (Optional) Check out Daniel Shiffman's tutorial for web extensions if you want to start learning about how to make web extensions by yourself.
 
 
 ## Exercise Descriptions
 ### I.Understanding TERMS OF SERVICE
 - Step 1: Make a list of ten digital tools you've used most in the last two months.
   - What app/web service do you use to communicate with your family or your friends? To search information or ask questions? To have fun and spend your free time?
-- Step 2: Before we have access to these services, we always need to check "I Agree" for their Terms of Service. However, no one reads Terms of Service, so do I. So let’s learn more about them together with help from others.
+- Step 2: Before we have access to these services, we always need to check "I Agree" to terms of service that no one reads. Now let’s learn more about these terms together with the help from a browser extension.
   - Install the browser extension [tosDR](https://chrome.google.com/webstore/detail/terms-of-service-didn%E2%80%99t-r/hjdoplcnndgiblooccencgcggcoihigg?hl=en) in your browser and check [their website](https://edit.tosdr.org/)
   - Work in a group of 3-4 and choose a website/service you want to work on together
     - What data does this service collect from you?
     - How is the company going to use these data?
+    - Who owns the collected data?
     - Does what you read from tosDR matches your current understanding of the web service? Is there anything that surprises you?
     - If you found any terms that you don’t understand, refer to the vocabulary list, find more about it online or ask the instructors for help
   - We are going to fill in a google doc together so everyone can refer to it later after class.
